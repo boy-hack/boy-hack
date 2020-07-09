@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 😄 喜爱有趣的代码，做自己喜欢的事情。
 - 🔭 研究安全扫描器，尝试将安全自动化，减少安全人员的重复时间。
-- 🤔 我自豪
+- 🤔 我自豪的
   - w系列开源扫描器(包含通用扫描器，指纹识别，网络空间引擎，被动扫描器等)
     - https://github.com/w-digital-scanner
     - https://opensource.hacking8.com/
