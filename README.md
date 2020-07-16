@@ -1,5 +1,5 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=boy-hack.boy-hack)
+<img src="https://visitor-badge.glitch.me/badge?page_id=boy-hack.boy-hack" />
 
 <!--
 **boy-hack/boy-hack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,3 +29,5 @@ Here are some ideas to get you started:
     - https://x.hacking8.com/
       - 我的博客，用于记录自己的点点滴滴
 - 💬 联系我可以通过邮件 master@hacking8.com
+- 🌱 我的微信公众号:Hacking就是好玩
+  - 用于打消无聊的时光，分享一些有趣的开发过程，更新的项目，以及原创工具
