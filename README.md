@@ -27,7 +27,6 @@ Here are some ideas to get you started:
       - hacking8安全信息流，患有信息焦虑症？这个网站会实时从各方面搜集更新有关安全的文章，论坛的热点，甚至Twitter的关注，每天花一些时间浏览它就够了！
     - https://x.hacking8.com/
       - 我的博客，用于记录自己的点点滴滴
-- 💬 联系我可以通过邮件 master@hacking8.com
 - 🌱 我的微信公众号:Hacking就是好玩
   - 用于打消无聊的时光，分享一些有趣的开发过程，更新的项目，以及原创工具
 
