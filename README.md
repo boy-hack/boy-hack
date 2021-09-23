@@ -31,5 +31,4 @@ Here are some ideas to get you started:
   - 用于打消无聊的时光，分享一些有趣的开发过程，更新的项目，以及原创工具
 
 我的知识星球
-
-![](https://i.hacking8.com/static/zs_github.png)
+- https://github.com/boy-hack/zsxq
