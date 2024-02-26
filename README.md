@@ -19,5 +19,3 @@
 
 我的知识星球
 - https://github.com/boy-hack/zsxq
-
-[![snake](./assets/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/boy-hack/boy-hack/master/assets/github-contribution-grid-snake.svg)
