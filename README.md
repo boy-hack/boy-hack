@@ -10,4 +10,4 @@
   - 用于打消无聊的时光，分享一些有趣的开发过程，更新的项目，以及原创工具
 
 我的知识星球
-- https://github.com/boy-hack/zsxq
+- [https://docs.w8ay.fun/](https://docs.w8ay.fun/)
