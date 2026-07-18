@@ -6,6 +6,3 @@
     - https://github.com/w-digital-scanner
 - 🌱 我的微信公众号:Hacking就是好玩
   - 用于打消无聊的时光，分享一些有趣的开发过程，更新的项目，以及原创工具
-
-我的知识星球
-- [https://docs.w8ay.fun/](https://docs.w8ay.fun/)
